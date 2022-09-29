@@ -92,6 +92,7 @@ while True:
     
     # make player garvity 
     # first loop y == 300 + 1 // second loop y == 300 + 2 player_gravity increment 1 by each loop
+    # commit
     player_gravity += 1
     player_rect.y += player_gravity
     # make floor // if player pos > 300(falldown) reset to 300 
