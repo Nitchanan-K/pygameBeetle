@@ -37,6 +37,7 @@ player_rect = player_surface.get_rect(midbottom = (80,300))
 # set garvity
 player_gravity = 0
 
+# test for push to git from pc 
 
 
 while True:
